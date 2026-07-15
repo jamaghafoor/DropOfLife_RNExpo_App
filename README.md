@@ -33,7 +33,7 @@ Follow these instructions to get the project up and running on your local machin
 1.  **Clone the repository** (if you haven't already):
     ```bash
     git clone <repository-url>
-    cd bdapp-master
+    cd DropOfLife_RNExpo_App
     ```
 
 2.  **Install dependencies**:
