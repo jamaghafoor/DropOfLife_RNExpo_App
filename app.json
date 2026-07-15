@@ -1,7 +1,7 @@
 {
     "expo": {
-        "name": "BloodDonate",
-        "slug": "BloodDonate",
+        "name": "DropOfLife",
+        "slug": "DropOfLife",
         "version": "1.0.0",
         "orientation": "portrait",
         "icon": "./assets/images/icon.png",
